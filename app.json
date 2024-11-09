@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "MpesaBillManager",
+    "slug": "mpesa-bill-manager",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "android": {
+      "namespace": "com.manusapps.mpesaBillManager",
+      "permissions": [
+        "READ_SMS"
+      ],
+      "package": "com.manu.mpesabillmanager"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "75d0f163-856b-4c34-b70e-c2c5c7914684"
+      }
+    }
+  }
+}
